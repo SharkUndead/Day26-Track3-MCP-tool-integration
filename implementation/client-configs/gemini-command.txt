@@ -1,0 +1,1 @@
+gemini mcp add sqlite-lab python "D:/VinUni_proJect_day/day 26/Day26-Track3-MCP-tool-integration/implementation/mcp_server.py" --description "SQLite lab FastMCP server" --timeout 10000
